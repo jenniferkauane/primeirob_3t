@@ -1,3 +1,7 @@
-# primeirob_3t
+# terceiro trimestre
 
-jennifer kauane N°16  1:B
+## identificacao
+jennifer kauane N°16  
+
+## conteudo
+HTML, CSS, e JavaScript
