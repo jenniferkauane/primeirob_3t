@@ -4,7 +4,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .calculadora {
-    background: rgb(172, 120, 221);
+    background: rgb(150, 91, 170);
     color: rgb(0, 0, 0);
     width: 210px;
     padding: 15px;
@@ -14,8 +14,8 @@ body {
 }
 
 #sptotalgeral {
-    background: rgb(198, 171, 204);
-    color: rgb(162, 0, 255);
+    background: rgb(0, 0, 0);
+    color: rgb(154, 145, 160);
     font-family: 'Times New Roman', Times, serif;
     padding: 5px;
     border-radius: 20px;
@@ -32,7 +32,7 @@ body {
     padding: 5px;
     margin-top: 10px;
     background: rgb(0, 0, 0);
-    color: rgb(245, 245, 245);
+    color: rgb(184, 184, 184);
     border-radius: 15px;
 
 }
